@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+* {
+  font-family: Poppins;
+}
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.navimg {
+  height: 50px;
+  margin-top: 10px;
+
+
+}
+
+.snap {
+  width: 60px;
+  height: 60px;
+  border: 4px solid white;
+  background-color: transparent;
+  border-radius: 50%;
+}
+
+.headpub {
+  margin-top: 200px;
+}
+
+.navbar {
+  height: 70px;
+
+}
+
+.contact {
+  position: absolute;
+  top: 12px;
+  left: 15px;
+  right: 15px;
+}
+
+.person {
+  height: 30px;
+  width: auto;
+  transition: all 0.2s ease-in-out;
+  margin-top: 15px;
+  margin-left: 15px;
+}
+.person:hover {
+  width: 80%;
+  height: 80%;
+  transition: all 0.2s ease-in-out;
+}
+.bio {
+  font-size: 15pt;
+  font-weight: bold;
+  color: black;
+}
+.descriptionauthor {
+
+}
+.footcontact {
+  font-size: 20pt;
+}
+
+.footitem:hover {
+  color: #77cdff !important;
+}
+
+
+
+.logotext {
+  position: absolute;
+  top: 50%;
+  font-size: 4rem;
+  z-index: 2000;
+}
